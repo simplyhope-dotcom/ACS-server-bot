@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "ACS -serverbot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Server-Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bloodhound.aternos.host",
+    "ip": "yaboi_Hope.aternos.me",
     "port": 21456,
     "version": "26.1.2",
     "try-creative": false
