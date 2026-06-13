@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yaboi_Hope.aternos.me",
+    "ip": "bloodhound.aternos.host",
     "port": 21456,
     "version": "26.1.2",
     "try-creative": false
